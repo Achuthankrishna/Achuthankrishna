@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Achuthankrishna
-- 👀 I’m interested in ROS and Mobile Robotics
+- 👀 I’m interested in Computer Vision and Deep Learning
 - 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on Robotics API and ROS Stacks
+- 💞️ I’m looking to collaborate on Deep Learning Projects and Robotics API
 - 📫 How to reach me achkrish07@gmail.com
 
 <!---
