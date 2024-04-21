@@ -11,10 +11,18 @@
   <img align="left" alt="python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <br></br>
-  
+#### Frameworks
+<img align="left" alt="c" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" />
+  <img align="left" alt="cplusplus" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+   <img align="left" alt="pytorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+  <img align="left" alt="tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img  align="left" alt="keras" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
+  <img align="left" alt="opencv" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
+  <img align="left" alt="numpy" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  <br></br>
 #### Simulation/Modeling
   
-  <img align="left" alt="blender" width="50px" style="padding-right:10px;" src="https://github.com/Achuthankrishna/images-git/blob/main/fVcxZP01.svg" />
+  <img align="left" alt="Isaac_ROS" width="50px" style="padding-right:10px;" src="https://github.com/Achuthankrishna/quad_controller/blob/main/img/proj_imgs/fVcxZP01.svg" />
   <img align="left" alt="gazebo" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original.svg"  />          
   <br></br> 
   <br></br> 
